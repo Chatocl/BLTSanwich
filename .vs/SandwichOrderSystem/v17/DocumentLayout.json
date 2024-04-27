@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|c:\\users\\chatocl\\documents\\a_url\\blt sandwich\\sandwichordersystem\\sandwichordersystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|solutionrelative:sandwichordersystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|c:\\users\\chatocl\\documents\\a_url\\blt sandwich\\sandwichordersystem\\sandwichordersystem\\sandwichordersystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|solutionrelative:sandwichordersystem\\sandwichordersystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|c:\\users\\chatocl\\documents\\a_url\\blt sandwich\\sandwichordersystem\\sandwichordersystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|solutionrelative:sandwichordersystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78714EB9-C5E8-4A79-BBE2-00D336B26ADC}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\chatocl\\documents\\a_url\\blt sandwich\\sandwichordersystem\\businesslogic\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78714EB9-C5E8-4A79-BBE2-00D336B26ADC}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78714EB9-C5E8-4A79-BBE2-00D336B26ADC}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\chatocl\\documents\\a_url\\blt sandwich\\sandwichordersystem\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78714EB9-C5E8-4A79-BBE2-00D336B26ADC}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B34B978-CA14-4D29-9376-459D8E14D8B1}|DataAccess\\DataAccess.csproj|c:\\users\\chatocl\\documents\\a_url\\blt sandwich\\sandwichordersystem\\dataaccess\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B34B978-CA14-4D29-9376-459D8E14D8B1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|c:\\users\\chatocl\\documents\\a_url\\blt sandwich\\sandwichordersystem\\sandwichordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067231A-5942-408D-A46D-E33E371DAE54}|SandwichOrderSystem\\SanwichAPI.csproj|solutionrelative:sandwichordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessLogic",
+              "DocumentMoniker": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T01:44:58.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SandwichOrderSystem.http",
+              "DocumentMoniker": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\SandwichOrderSystem.http",
+              "RelativeDocumentMoniker": "SandwichOrderSystem\\SandwichOrderSystem.http",
+              "ToolTip": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\SandwichOrderSystem.http",
+              "RelativeToolTip": "SandwichOrderSystem\\SandwichOrderSystem.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-27T01:29:20.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SandwichOrderSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\Program.cs",
+              "RelativeToolTip": "SandwichOrderSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:17:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SandwichOrderSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\appsettings.Development.json",
+              "RelativeToolTip": "SandwichOrderSystem\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T03:58:33.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SandwichOrderSystem\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\SandwichOrderSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SandwichOrderSystem\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:43:25.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\DataAccess\\DataRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\DataAccess\\DataRepository.cs",
+              "RelativeToolTip": "DataAccess\\DataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:35:35.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\BusinessLogic\\OrderManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\Chatocl\\Documents\\A_URL\\BLT Sandwich\\SandwichOrderSystem\\BusinessLogic\\OrderManager.cs",
+              "RelativeToolTip": "BusinessLogic\\OrderManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:33:57.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

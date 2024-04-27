@@ -1,0 +1,4 @@
+@SandwichOrderSystem_HostAddress = http://192.168.220.83:5135  // Cambia la dirección y el puerto según sea necesario
+
+GET {{SandwichOrderSystem_HostAddress}}/weatherforecast/
+Accept: application/json
